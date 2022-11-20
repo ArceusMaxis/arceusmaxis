@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on **[WORKING ON THIS]**
 
-- 📫 How to reach me **ArceusMaxis#7249**
+- 📫 How to reach me **ArceusMaxis#7249 on Discord**
 
 - 📄 Know about my experiences **[WORKING ON THIS]**
 
