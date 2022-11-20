@@ -19,7 +19,8 @@
 
 - 📄 Know about my experiences **[WORKING ON THIS]**
 
-- ⚡ Fun fact **I can blow your mind by just talking**</p>
+- ⚡ Fun fact **I can blow your mind by just talking**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
