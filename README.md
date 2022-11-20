@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif" width="36"> Vanakkam! I'm Amirtha Krishnan <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="36"></h1>
 <h3 align="center">I'm a game developer from Puducherry,India. I work mostly with Blender,Godot and Unity(VFX).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arceusmaxis&label=Profile%20views&color=0e75b6&style=flat" alt="arceusmaxis" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arceusmaxis&label=VIEWS%20views&color=FBF1B1&style=for-the-badge" alt="arceusmaxis" /> </p>
 
-- 🔭 I’m currently working on [Magicae Portalis : play here ->](https://arceusmaxis.github.io/storage/)
+- 🔭 I’m currently working on [Magicae Portalis](https://arceusmaxis.github.io/storage/)
 
 - 🌱 I’m currently learning **VFX,Game Design and Project Management**
 
