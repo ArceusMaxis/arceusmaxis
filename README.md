@@ -3,23 +3,23 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arceusmaxis&label=BOOP+COUNTER&color=yellow&style=for-the-badge" width="200" alt="arceusmaxis" /> </p>
 
-<p margin-left="50px">- 🔭 I’m currently working on [Magicae Portalis](https://arceusmaxis.github.io/storage/)</p>
+- 🔭 I’m currently working on [Magicae Portalis](https://arceusmaxis.github.io/storage/)
 
-<p margin-left="50px">- 🌱 I’m currently learning **VFX,Game Design and Project Management** </p>
+- 🌱 I’m currently learning **VFX,Game Design and Project Management** 
 
-<p margin-left="50px">- 👯 I’m looking to collaborate on **[SOON SOON SOON]** </p>
+- 👯 I’m looking to collaborate on **[SOON SOON SOON]** 
 
-<p margin-left="50px">- 🤝 I’m looking for help with [b24](https://github.com/ArceusMaxis/b24) </p>
+- 🤝 I’m looking for help with [b24](https://github.com/ArceusMaxis/b24) 
 
-<p margin-left="50px">- 👨‍💻 All of my projects are available at [github.com/Arceusmaxis](github.com/Arceusmaxis) </p>
+- 👨‍💻 All of my projects are available at [github.com/Arceusmaxis](github.com/Arceusmaxis) 
 
-<p margin-left="50px">- 📝 I regularly write articles on **[WORKING ON THIS]** </p>
+- 📝 I regularly write articles on **[WORKING ON THIS]** 
 
-<p margin-left="50px">- 📫 How to reach me **ArceusMaxis#7249 on Discord** </p>
+- 📫 How to reach me **ArceusMaxis#7249 on Discord** 
 
-<p margin-left="50px">- 📄 Know about my experiences **[WORKING ON THIS]** </p>
+- 📄 Know about my experiences **[WORKING ON THIS]** 
 
-<p margin-left="50px">- ⚡ Fun fact **I can blow your mind by just talking** </p>
+- ⚡ Fun fact **I can blow your mind by just talking** 
 
 
 <h3 align="center">Connect with me:</h3>
