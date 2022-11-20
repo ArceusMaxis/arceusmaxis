@@ -1,25 +1,25 @@
 <h1 align="center"><img src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif" width="35"> Vanakkam! I'm Amirtha Krishnan <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <h3 align="center"> Game Developer/Designer from Puducherry, India. I work mostly with Blender, Godot and Unity(VFX).</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arceusmaxis&label=BOOP+COUNTER&color=yellow&style=for-the-badge" width="200" alt="arceusmaxis" /> </p>
+<p margin-left="100px"> <img src="https://komarev.com/ghpvc/?username=arceusmaxis&label=BOOP+COUNTER&color=yellow&style=for-the-badge" width="200" alt="arceusmaxis" /> </p>
 
-<p align="center">- 🔭 I’m currently working on [Magicae Portalis](https://arceusmaxis.github.io/storage/)</p>
+<p margin-left="100px">- 🔭 I’m currently working on [Magicae Portalis](https://arceusmaxis.github.io/storage/)</p>
 
-<p align="center">- 🌱 I’m currently learning **VFX,Game Design and Project Management** </p>
+<p margin-left="100px">- 🌱 I’m currently learning **VFX,Game Design and Project Management** </p>
 
-<p align="center">- 👯 I’m looking to collaborate on **[SOON SOON SOON]** </p>
+<p margin-left="100px">- 👯 I’m looking to collaborate on **[SOON SOON SOON]** </p>
 
-<p align="center">- 🤝 I’m looking for help with [b24](https://github.com/ArceusMaxis/b24) </p>
+<p margin-left="100px">- 🤝 I’m looking for help with [b24](https://github.com/ArceusMaxis/b24) </p>
 
-<p align="center">- 👨‍💻 All of my projects are available at [github.com/Arceusmaxis](github.com/Arceusmaxis) </p>
+<p margin-left="100px">- 👨‍💻 All of my projects are available at [github.com/Arceusmaxis](github.com/Arceusmaxis) </p>
 
-<p align="center">- 📝 I regularly write articles on **[WORKING ON THIS]** </p>
+<p margin-left="100px">- 📝 I regularly write articles on **[WORKING ON THIS]** </p>
 
-<p align="center">- 📫 How to reach me **ArceusMaxis#7249 on Discord** </p>
+<p margin-left="100px">- 📫 How to reach me **ArceusMaxis#7249 on Discord** </p>
 
-<p align="center">- 📄 Know about my experiences **[WORKING ON THIS]** </p>
+<p margin-left="100px">- 📄 Know about my experiences **[WORKING ON THIS]** </p>
 
-<p align="center">- ⚡ Fun fact **I can blow your mind by just talking** </p>
+<p margin-left="100px">- ⚡ Fun fact **I can blow your mind by just talking** </p>
 
 
 <h3 align="center">Connect with me:</h3>
