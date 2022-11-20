@@ -2,25 +2,25 @@
 <h3 align="center"> Game Developer/Designer from Puducherry, India. I work mostly with Blender, Godot and Unity(VFX).</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arceusmaxis&label=BOOP+COUNTER&color=yellow&style=for-the-badge" width="200" alt="arceusmaxis" /> </p>
-<p align="center">
-- 🔭 I’m currently working on [Magicae Portalis](https://arceusmaxis.github.io/storage/)
 
-- 🌱 I’m currently learning **VFX,Game Design and Project Management**
+<p align="center">- 🔭 I’m currently working on [Magicae Portalis](https://arceusmaxis.github.io/storage/)</p>
 
-- 👯 I’m looking to collaborate on **[SOON SOON SOON]**
+<p align="center">- 🌱 I’m currently learning **VFX,Game Design and Project Management** </p>
 
-- 🤝 I’m looking for help with [b24](https://github.com/ArceusMaxis/b24)
+<p align="center">- 👯 I’m looking to collaborate on **[SOON SOON SOON]** </p>
 
-- 👨‍💻 All of my projects are available at [github.com/Arceusmaxis](github.com/Arceusmaxis)
+<p align="center">- 🤝 I’m looking for help with [b24](https://github.com/ArceusMaxis/b24) </p>
 
-- 📝 I regularly write articles on **[WORKING ON THIS]**
+<p align="center">- 👨‍💻 All of my projects are available at [github.com/Arceusmaxis](github.com/Arceusmaxis) </p>
 
-- 📫 How to reach me **ArceusMaxis#7249 on Discord**
+<p align="center">- 📝 I regularly write articles on **[WORKING ON THIS]** </p>
 
-- 📄 Know about my experiences **[WORKING ON THIS]**
+<p align="center">- 📫 How to reach me **ArceusMaxis#7249 on Discord** </p>
 
-- ⚡ Fun fact **I can blow your mind by just talking**
-</p>
+<p align="center">- 📄 Know about my experiences **[WORKING ON THIS]** </p>
+
+<p align="center">- ⚡ Fun fact **I can blow your mind by just talking** </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
