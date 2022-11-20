@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://giphy.com/embed/XgN35QOWSzLKGISuxm/giphy.gif" width="35">Vanakkam! I'm Amirtha Krishnan<img src="https://giphy.com/embed/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif" width="35">Vanakkam! I'm Amirtha Krishnan<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <h3 align="center">I'm a game developer from Puducherry,India. I work mostly with Blender,Godot and Unity(VFX).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arceusmaxis&label=Profile%20views&color=0e75b6&style=flat" alt="arceusmaxis" /> </p>
