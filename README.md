@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"><img src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif" width="35"> Vanakkam! I'm Amirtha Krishnan <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"><img src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"><img src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif" width="35"> Vanakkam! I'm Amirtha Krishnan <img src="https://media.giphy.com/media/XgN35QOWSzLKGISuxm/giphy.gif" width="35"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <h3 align="center"> Game Developer/Designer from Puducherry, India. I work mostly with Blender, Godot and Unity(VFX).</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arceusmaxis&label=BOOP+COUNTER&color=yellow&style=for-the-badge" width="200" alt="arceusmaxis" /> </p>
