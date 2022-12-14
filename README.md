@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **VFX,Game Design and Project Management** 
 
-- 👯 I’m looking to collaborate on **[SOON SOON SOON]** 
+- 👯 I’m looking to collaborate on **ArceusMaxis/b24** 
 
 - 🤝 I’m looking for help with [b24](https://github.com/ArceusMaxis/b24) 
 
