@@ -39,5 +39,5 @@
 <p align="center"><a href="https://ko-fi.com/amirtha"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="amirtha" /></a></p><br><br><br><p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arceusmaxis&show_icons=true&locale=en&layout=compact" alt="arceusmaxis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arceusmaxis&show_icons=true&locale=en" alt="arceusmaxis" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=arceusmaxis&theme=great-gatsby&hide_border=true&border_radius=4&fire=00C6DD&currStreakNum=00DADD&dates=00C4DD)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arceusmaxis&show_icons=true&locale=en" alt="arceusmaxis" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=arceusmaxis&theme=great-gatsby&hide_border=true&border_radius=4&fire=00C6DD&currStreakNum=00DADD&dates=00C4DD" alt="Streaks" /></p>
