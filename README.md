@@ -40,5 +40,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arceusmaxis&show_icons=true&locale=en&layout=compact" alt="arceusmaxis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arceusmaxis&show_icons=true&locale=en" alt="arceusmaxis" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arceusmaxis&" alt="arceusmaxis" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=arceusmaxis&theme=great-gatsby&hide_border=true&border_radius=4&fire=00C6DD&currStreakNum=00DADD&dates=00C4DD)](https://git.io/streak-stats)
