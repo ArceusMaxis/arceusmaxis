@@ -1,0 +1,40 @@
+<style>
+
+	.img-hover-zoom img {
+		transition: transform .3s, filter .3s ease-in-out;
+	}
+
+	.img-hover-zoom:hover img {
+		transform: scale(1.2);
+		filter: brightness(160%);
+	}
+
+	.relative {
+		top: 0px;
+		left: 0px;
+	}
+
+	.invisible {
+		pointer-events: none;
+	}
+</style>
+<table>
+	<tr>
+		<td>
+			<div class="img-hover-zoom relative">
+				<a href="https://twitter.com/chaak_007" target="_blank">
+					<img src="twitter.png" width="100%">
+				</a>
+			</div>
+		</td>
+		<td width="20%">
+		</td>
+		<td>
+			<div class="img-hover-zoom relative">
+				<a href="https://discordapp.com/users/450268280867913750" target="_blank">
+					<img src="discord.png" width="100%">
+				</a>
+			</div>
+		</td>
+	</tr>
+</table>
